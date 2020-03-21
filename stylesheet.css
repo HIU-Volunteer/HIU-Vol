@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+#title{
+    text-align: center;
+    color:white;
+}
+
+#home{
+    text-align: center;
+}
+
+body {
+    background-image: url("johodai.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;}

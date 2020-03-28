@@ -9,11 +9,13 @@
     text-align: center;
 }
 
-@media only screen and (max-width:980px) {
+body{
+    @media only screen and (max-width:980px) {
     body {
     background-image: url("sora.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
+        
     background-position: center center;
     background-size: cover;
          }
@@ -27,3 +29,4 @@
     background-position: center center;
     background-size: cover;
         }
+    }

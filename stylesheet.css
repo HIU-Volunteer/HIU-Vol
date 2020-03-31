@@ -9,11 +9,22 @@
     text-align: center;
 }
 
-/* パソコンで見たときは"pc"のclassがついた画像が表示される */
-.pc { display: block !important; }
-.sp { display: none !important; }
-/* スマートフォンで見たときは"sp"のclassがついた画像が表示される */
-@media only screen and (max-width: 750px) {
-.pc { display: none !important; }
-.sp { display: block !important; }
+@media only screen and (max-width:980px) {
+    body {
+    background-image: url("johodai.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+         }
+    }
+    
+    @media only screen and (min-width:981px) {
+    body {
+    background-image: url("sora.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+        }
 }

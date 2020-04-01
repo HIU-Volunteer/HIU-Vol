@@ -8,10 +8,4 @@
 #link{
     text-align: center;
 }
-    body {
-    background-image: url("sora.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center center;
-    background-size: cover;
-         }
+    body {background-image: url("sora.jpg");}

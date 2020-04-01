@@ -9,9 +9,6 @@
     text-align: center;
 }
     body {
-    background-image: url("./sora.png");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center center;
-    background-size: cover;
+    background-image: url("sora.png");
+
          }

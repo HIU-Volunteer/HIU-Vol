@@ -21,3 +21,13 @@ body {
       background-position: center center;
       background-size: cover;
       }
+.yellow{
+ background-color: yellow;
+ width: 200px;
+ height: 250px;
+}
+.green{
+ background-color: green;
+ width: 150px;
+ height: 100px;
+}

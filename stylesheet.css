@@ -2,16 +2,13 @@
 
 #title{
     text-align: center;
-    color:white;
-     width: 250px;
- height: 250px;
+    color:blue;
+    background-color:white;
  float: center;
 }
 
 #link{
     text-align: center;
-     width: 100px;
- height: 150px;
     float: right;
 }
 body {
@@ -21,13 +18,3 @@ body {
       background-position: center center;
       background-size: cover;
       }
-.yellow{
- background-color: yellow;
- width: 200px;
- height: 250px;
-}
-.green{
- background-color: green;
- width: 150px;
- height: 100px;
-}
